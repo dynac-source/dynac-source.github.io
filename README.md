@@ -1,2 +1,2 @@
 # dynac-source.github.io
-DYNAC beam dynamics webpgae
+DYNAC beam dynamics webpage
